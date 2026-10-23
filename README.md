@@ -44,7 +44,7 @@ Most good ideas start as a rough sketch, and most problems are easier to solve w
 | Authentication | Spring Security, JWT, multi-factor authentication |
 | AI | LLM-based review service (provider to be decided) |
 
-The backend is built as a modular monolith (separate auth, canvas, gallery and AI modules) so it can be split into services later. See [`docs/KanvaCol-v1-Architecture.png`](docs/KanvaCol-v1-Architecture.png) for the architecture.
+The backend is built as a modular monolith (separate auth, canvas, gallery and AI modules) so it can be split into services later. See [[`docs/KanvaCol-v1-Architecture.png`](docs/KanvaCol-v1-Architecture.png](https://github.com/Moham2791/KanvaCol/blob/main/KanvaCol%20Requirements%20Flow.pdf)) for the architecture.
 
 ## Getting started
 
