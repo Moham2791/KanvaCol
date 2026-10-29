@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[../Kanvacol%20logo%20(square,%20LinkedIn%20size)@1x.png" alt="KanvaCol logo](https://github.com/Moham2791/KanvaCol/blob/main/Kanvacol%20logo%20(square%2C%20LinkedIn%20size)%401x.png)" width="120">
+  <img src="[ alt="KanvaCol logo" (https://github.com/Moham2791/KanvaCol/blob/main/Kanvacol%20logo%20(square%2C%20LinkedIn%20size)%401x.png)" width="120">
 </p>
 <h1 align="center">KanvaCol</h1>
 <p align="center"><b>Where ideas are drawn, protected and taken further, together.</b></p>
