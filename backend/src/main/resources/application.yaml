@@ -1,9 +1,11 @@
 spring:
   application:
     name: backend
-  jpa:
-    hibernate:
-      ddl-auto: update
-  docker:
-    compose:
-      lifecycle-management: start-only
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kanvacol
+    username: kanvacol
+    password: dev
+    jpa:
+      hibernate:
+        ddl-auto: validate
