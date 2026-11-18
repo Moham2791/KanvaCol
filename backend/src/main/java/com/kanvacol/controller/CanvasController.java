@@ -1,6 +1,8 @@
-package com.kanvacol.Entity;
+package com.kanvacol.controller;
 
 
+import com.kanvacol.Entity.Canvas;
+import com.kanvacol.Entity.CanvasRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
